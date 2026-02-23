@@ -2,8 +2,9 @@
 
 Welcome to **FocusNest**, a sleek and interactive task management web application designed to help users **organize, prioritize, and conquer** their daily tasks. Built using the **MERN Stack**, FocusNest offers a smooth and responsive user experience with secure authentication and a modern UI.
 
- 🎥 **[Watch Demo Video](https://youtu.be/LFG4lTWuVOM)** 
- 
+🎥 **[Watch Demo Video](https://youtu.be/LFG4lTWuVOM)** 
+🌐 **[Live Website](https://focusnest-daily-planner.vercel.app/)**
+
 ---
 
 ## 🚀 Features
